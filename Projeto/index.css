@@ -150,3 +150,15 @@ footer a {
   text-decoration: none;
   max-width: 350px;
 }
+
+#copyright {
+  background-color: #263138;
+  color: #ffffff;
+  padding: 24px;
+  text-align: center;
+
+}
+
+#copyright a {
+  color: #FF725E;
+}
