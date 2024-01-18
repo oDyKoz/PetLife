@@ -50,6 +50,7 @@ h2 {
 .paragrafo {
   line-height: 150%;
   margin-bottom: 32px;
+  font-weight: 500;
 }
 
 .botao {
@@ -131,6 +132,7 @@ h2 {
 footer {
   background-color: rgba(255, 152, 100, 0.25);
   display: flex;
+  justify-content: space-between;
   gap: 80px;
   padding: 60px 80px;
 }
@@ -149,6 +151,17 @@ footer a {
   margin-bottom: 16px;
   text-decoration: none;
   max-width: 350px;
+}
+
+footer p {
+  margin-bottom: 16px;
+  max-width: 350px;
+}
+
+footer p a {
+  color: #263138;
+  text-decoration: none;
+
 }
 
 #copyright {
